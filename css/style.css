@@ -34,6 +34,16 @@
   padding-right: 65px;
   border-right: 1px solid #cccccc;
 }
+
+.fsdfgfg {
+  padding-right: 25px;
+}
+
+.about-one_imgright {
+  padding-left: 65px;
+  border-left: 1px solid #cccccc;
+}
+
 .about-img {
   border-radius: 20px;
 }
@@ -1877,4 +1887,47 @@ textarea.form-control {
   height: 90px;
   padding: 20px 0;
   resize: none;
+}
+.dsfsrfds {
+  text-align: justify;
+}
+
+.section-background {
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  height: 500px;
+  width: 100%;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.parallax {
+  background-image: url("/revolution/images/Slider-03.jpg");
+}
+.parallax1 {
+  background-image: url("/revolution/images/Slider-04.jpg");
+}
+
+.fgbhxba {
+  font-size: 30px;
+  font-weight: 200;
+  line-height: 40px;
+}
+
+.text-bloc p {
+  margin: 75px;
+  font-size: 22px;
+}
+.serg {
+  background-color: #efefef;
+}
+
+.twtweq {
+  font-size: 16px;
+  padding: 14px;
+
+  font-weight: 400;
+  line-height: 20px;
 }
